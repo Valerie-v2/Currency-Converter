@@ -1,0 +1,16 @@
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.exe
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.deps.json
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.runtimeconfig.json
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.runtimeconfig.dev.json
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.dll
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\ref\CurrencyCalculator.dll
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\bin\Debug\net5.0\CurrencyCalculator.pdb
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.AssemblyInfo.cs
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.dll
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\ref\CurrencyCalculator.dll
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.pdb
+C:\Users\31637\VisualstudioProjects\CurrencyCalculator\obj\Debug\net5.0\CurrencyCalculator.genruntimeconfig.cache
